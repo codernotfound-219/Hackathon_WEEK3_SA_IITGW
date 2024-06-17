@@ -7,6 +7,5 @@ This repository contains the code and output csv file required for the completio
 3. Code.ipynb    -    Contains the actual coding of the project
 4. result.csv    -    **THE FINAL OUTPUT FILE REQUIRED**
 
-
-NAME - Aswatt Gayathri Kartikeyan
-MAIL - ag23eeb0f06@student.nitw.ac.in
+<br/>
+NAME - Aswatt Gayathri Kartikeyan<br/>MAIL - ag23eeb0f06@student.nitw.ac.in
