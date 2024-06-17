@@ -6,3 +6,7 @@ This repository contains the code and output csv file required for the completio
 2. Analysis.ipynb    -    Contains my learning, tests and trails conducted for analysis of the given dataset
 3. Code.ipynb    -    Contains the actual coding of the project
 4. result.csv    -    **THE FINAL OUTPUT FILE REQUIRED**
+
+
+NAME - Aswatt Gayathri Kartikeyan
+MAIL - ag23eeb0f06@student.nitw.ac.in
